@@ -1,7 +1,7 @@
 # Que es un diccionario en python
 '''
 Un diccionario es una colección no ordenada de pares clave-valor. Los elementos se almacenan en una tabla hash, 
-que permite acceso constante a los elementos por su clave.SI
+que permite acceso constante a los elementos por su clave.
 
 '''
 my_dict = {
